@@ -50,7 +50,7 @@ function App() {
   const [history, setHistory]             = useState([]);
   const [loading, setLoading]             = useState(false);
 
-  const backendURL = "http://127.0.0.1:8000";
+  const backendURL = "https://interview-simulator-qean.onrender.com";
 
   // Swap "Coding" → "Practical" for non-technical topics
   const resolveType = (rawType) =>
