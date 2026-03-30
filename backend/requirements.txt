@@ -1,7 +1,9 @@
 fastapi
 uvicorn
+pydantic
 google-genai
-python-dotenv
 firebase-admin
+python-dotenv
 scikit-learn
 pandas
+langgraph
